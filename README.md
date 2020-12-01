@@ -22,6 +22,7 @@ Herein, we aim to identify periods where the zebra's colors are consistant, usin
 - DTW TS KMeans
 - SoftDTW TS KMeans
 
+We ended up choosing KernelKMeans as our clustering algorithm since it gives us the most well distributed classification results.
 ## Classification Algorithm(s) used
 - XGBoost
 
