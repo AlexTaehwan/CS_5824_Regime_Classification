@@ -24,3 +24,9 @@ Herein, we aim to identify periods where the zebra's colors are consistant, usin
 
 ## Classification Algorithm(s) used
 - XGBoost
+
+## Code Explanation (written in python, colab)
+Code consists of four parts: Data Collection, Clustering, XGBoost, Main
+1. import 11 csv files (cboe_vix.csv, corporate_bond_yeild.xls, dollar_index.csv, Golbal_Alignment_Kernel_Labels.csv, monetary_base.csv, oil.csv, TIPS.csv, treasury_bond.csv, Year_1.csv, Year_2.csv, Year_10.csv)
+2. Run Clustering
+3. Run XGBoost
