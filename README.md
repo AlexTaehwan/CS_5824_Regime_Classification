@@ -13,6 +13,7 @@ Herein, we aim to identify periods where the zebra's colors are consistant, usin
 - credit spread
 - monetary base
 - period spread
+- TIPS
 - Year_1_bond
 - Year_2_bond
 - Year_10_bond
